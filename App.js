@@ -1,12 +1,19 @@
 import { StatusBar } from "expo-status-bar";
 import { Button, StyleSheet, Text, View } from "react-native";
-import { test } from "./s";
+import { testEncryptionDecryption, testSigningVerification } from "./s";
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app now!</Text>
-      <Button title="Run test" onPress={test} />
+      <Button
+        title="Test Encryption Decryption"
+        onPress={testEncryptionDecryption}
+      />
+      <Button
+        title="Test Signing Verification"
+        onPress={testSigningVerification}
+      />
       <StatusBar style="auto" />
     </View>
   );
