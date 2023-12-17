@@ -1,0 +1,2353 @@
+[
+    {
+      "id": 2,
+      "name": "Electricity",
+      "billers": [
+        {
+          "id": 70,
+          "billerName": "Eko Electricity Distribution Company",
+          "billerCode": "1473",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcneko.png",
+          "serviceTypeID": 2,
+          "tagID": 176,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 415,
+              "packageName": "Postpaid",
+              "amount": 0,
+              "billerCode": "04131606",
+              "billerID": 70,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 421,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "04147302",
+              "billerID": 70,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "billerName": "Enugu Electricity Distribution Company",
+          "billerCode": "783",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnenugu.png",
+          "serviceTypeID": 2,
+          "tagID": 177,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 419,
+              "packageName": "Postpaid Payments",
+              "amount": 0,
+              "billerCode": "78599",
+              "billerID": 71,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 422,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "78399",
+              "billerID": 71,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "billerName": "Ibadan Electricity Distribution Company",
+          "billerCode": "784",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnibadan.png",
+          "serviceTypeID": 2,
+          "tagID": 178,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 420,
+              "packageName": "Electricity Bill",
+              "amount": 0,
+              "billerCode": "79201",
+              "billerID": 72,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 423,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "78401",
+              "billerID": 72,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "billerName": "Ikeja Electricity Distribution Company",
+          "billerCode": "766",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnikeja.png",
+          "serviceTypeID": 2,
+          "tagID": 179,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 424,
+              "packageName": "Postpaid",
+              "amount": 0,
+              "billerCode": "84801",
+              "billerID": 75,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 428,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "76601",
+              "billerID": 75,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "billerName": "Jos Electricity Distribution Company",
+          "billerCode": "2979",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnjos.png",
+          "serviceTypeID": 2,
+          "tagID": 180,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 430,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "04297902",
+              "billerID": 77,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 661,
+              "packageName": "JEDC POSTPAID",
+              "amount": 0,
+              "billerCode": "KUD-ELE-JEDC-002",
+              "billerID": 77,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "billerName": "Kaduna Electricity Distribution Company",
+          "billerCode": "2969",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnkaduna.png",
+          "serviceTypeID": 2,
+          "tagID": 181,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 429,
+              "packageName": "Postpaid",
+              "amount": 0,
+              "billerCode": "04297801",
+              "billerID": 79,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 432,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "04296902",
+              "billerID": 79,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "billerName": "KEDCO",
+          "billerCode": "847",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/kedco.png",
+          "serviceTypeID": 2,
+          "tagID": 182,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 433,
+              "packageName": "Postpaid Bills",
+              "amount": 0,
+              "billerCode": "49101",
+              "billerID": 81,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 434,
+              "packageName": "Prepaid",
+              "amount": 0,
+              "billerCode": "84701",
+              "billerID": 81,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "billerName": "PHED Postpaid",
+          "billerCode": "860",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/electricitybillers/phcnpostpaid.png",
+          "serviceTypeID": 2,
+          "tagID": 184,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 437,
+              "packageName": "Postpaid Payments",
+              "amount": 0,
+              "billerCode": "86001",
+              "billerID": 84,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 660,
+              "packageName": "PHED PREPAID",
+              "amount": 0,
+              "billerCode": "KUD-ELE-PHED-002",
+              "billerID": 84,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "billerName": "Abuja Electricity Distribution Company",
+          "billerCode": "8910",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://d38v990enafbk6.cloudfront.net/phcn_abuja.png",
+          "serviceTypeID": 2,
+          "tagID": 418,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 10,
+          "billerPackages": [
+            {
+              "id": 658,
+              "packageName": "AEDC POSTPAID",
+              "amount": 0,
+              "billerCode": "KUD-ELE-AEDC-001",
+              "billerID": 87,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 659,
+              "packageName": "AEDC PREPAID",
+              "amount": 0,
+              "billerCode": "KUD-ELE-AEDC-002",
+              "billerID": 87,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "TV",
+      "billers": [
+        {
+          "id": 62,
+          "billerName": "DSTV Subscription",
+          "billerCode": "104",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/billericons/dstv.png",
+          "serviceTypeID": 3,
+          "tagID": 3,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 3,
+          "billerPackages": [
+            {
+              "id": 558,
+              "packageName": "DSTV Padi",
+              "amount": 2150,
+              "billerCode": "KUD-DSTV-PADM-001",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 560,
+              "packageName": "DSTV HDPVR Acess/ExtraView",
+              "amount": 2900,
+              "billerCode": "KUD-DSTV-HDPA-003",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 561,
+              "packageName": "DSTV Yanga",
+              "amount": 2950,
+              "billerCode": "KUD-DSTV-YANB-004",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 563,
+              "packageName": "DSTV Padi + Xtraview",
+              "amount": 5050,
+              "billerCode": "KUD-DSTV-PAXT-006",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 564,
+              "packageName": "DSTV Confam",
+              "amount": 5300,
+              "billerCode": "KUD-DSTV-DCBM-007",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 565,
+              "packageName": "DSTV Yanga + XtraView",
+              "amount": 5850,
+              "billerCode": "KUD-DSTV-DYXT-008",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 566,
+              "packageName": "DSTV Asian",
+              "amount": 7100,
+              "billerCode": "KUD-DSTV-ASBM-009",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 567,
+              "packageName": "DSTV Confam + Xtraview",
+              "amount": 8200,
+              "billerCode": "KUD-DSTV-COXT-010",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 568,
+              "packageName": "DSTV Compact",
+              "amount": 9000,
+              "billerCode": "KUD-DSTV-DCOM-011",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 569,
+              "packageName": "DSTV French Plus",
+              "amount": 9300,
+              "billerCode": "KUD-DSTV-FREP-012",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 570,
+              "packageName": "DSTV Compact + French Touch",
+              "amount": 11650,
+              "billerCode": "KUD-DSTV-COFT-013",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 571,
+              "packageName": "DSTV Compact + XtraView",
+              "amount": 11900,
+              "billerCode": "KUD-DSTV-DCXT-014",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 573,
+              "packageName": "DSTV Compact Plus",
+              "amount": 14250,
+              "billerCode": "KUD-DSTV-DCPM-016",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 575,
+              "packageName": "DSTV Compact + Asia",
+              "amount": 16100,
+              "billerCode": "KUD-DSTV-COAS-018",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 576,
+              "packageName": "DSTV Compact Plus + French Touch",
+              "amount": 16900,
+              "billerCode": "KUD-DSTV-DCPF-019",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 577,
+              "packageName": "DSTV Compact Plus + XtraView",
+              "amount": 17150,
+              "billerCode": "KUD-DSTV-DCPX-020",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 579,
+              "packageName": "DSTV Compact + French Plus",
+              "amount": 18300,
+              "billerCode": "KUD-DSTV-DCFP-022",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 580,
+              "packageName": "DSTV Premium",
+              "amount": 21000,
+              "billerCode": "KUD-DSTV-PREM-023",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 581,
+              "packageName": "DSTV Compact Plus + Asia",
+              "amount": 21350,
+              "billerCode": "KUD-DSTV-COPA-024",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 582,
+              "packageName": "DSTV CompactPlus + French Plus",
+              "amount": 23550,
+              "billerCode": "KUD-DSTV-CPFP-025",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 583,
+              "packageName": "DSTV Premium Asia",
+              "amount": 23500,
+              "billerCode": "KUD-DSTV-DPAM-026",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 584,
+              "packageName": "DSTV Premium + Xtraview",
+              "amount": 23900,
+              "billerCode": "KUD-DSTV-PRXT-027",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 586,
+              "packageName": "DSTV  Premium Asia + XtraView",
+              "amount": 26400,
+              "billerCode": "KUD-DSTV-DPAE-029",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 588,
+              "packageName": "DSTV Premium + French + Xtraview",
+              "amount": 32200,
+              "billerCode": "KUD-DSTV-PFXT-031",
+              "billerID": 62,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "billerName": "GoTV",
+          "billerCode": "459",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/billericons/gotv.png",
+          "serviceTypeID": 3,
+          "tagID": 4,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 3,
+          "billerPackages": [
+            {
+              "id": 590,
+              "packageName": "GOtv Lite Month 1",
+              "amount": 900,
+              "billerCode": "KUD-GOTV-LITE-001",
+              "billerID": 63,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 591,
+              "packageName": "GOtv Jinja Bouquet Month 1",
+              "amount": 1900,
+              "billerCode": "KUD-GOTV-JINJ-002",
+              "billerID": 63,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 592,
+              "packageName": "GOtv Jolli Bouquet Month 1",
+              "amount": 2800,
+              "billerCode": "KUD-GOTV-JOLL-003",
+              "billerID": 63,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 593,
+              "packageName": "GOtv Max Month 1",
+              "amount": 4150,
+              "billerCode": "KUD-GOTV-MAX-004",
+              "billerID": 63,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "billerName": "Startimes Payments",
+          "billerCode": "240",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011887190912115654862146369510",
+          "serviceTypeID": 3,
+          "tagID": 104,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 3,
+          "billerPackages": [
+            {
+              "id": 596,
+              "packageName": "Smart - One Day 120NGN",
+              "amount": 120,
+              "billerCode": "KUD-STAR-SMOD-003",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 597,
+              "packageName": "Classic - One Day 180NGN",
+              "amount": 180,
+              "billerCode": "KUD-STAR-CLOD-004",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 598,
+              "packageName": "Unique - One Day 240NGN",
+              "amount": 240,
+              "billerCode": "KUD-STAR-UNOD-005",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 599,
+              "packageName": "Super - One Day 240NGN",
+              "amount": 240,
+              "billerCode": "KUD-STAR-SPOD-006",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 600,
+              "packageName": "Nova - One Week 300NGN",
+              "amount": 300,
+              "billerCode": "KUD-STAR-NVOW-007",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 601,
+              "packageName": "Basic - One Week 450NGN",
+              "amount": 450,
+              "billerCode": "KUD-STAR-BSOW-008",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 602,
+              "packageName": "Smart - One Week 600NGN",
+              "amount": 600,
+              "billerCode": "KUD-STAR-SMOW-009",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 603,
+              "packageName": "Nova - One Month 900NGN",
+              "amount": 900,
+              "billerCode": "KUD-STAR-NVOM-010",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 604,
+              "packageName": "Classic - One Week 900NGN",
+              "amount": 900,
+              "billerCode": "KUD-STAR-CLOW-011",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 605,
+              "packageName": "Super - One Week 1200NGN",
+              "amount": 1200,
+              "billerCode": "KUD-STAR-SPOW-012",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 606,
+              "packageName": "Basic - One Month 1850NGN",
+              "amount": 1850,
+              "billerCode": "KUD-STAR-BSOM-013",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 607,
+              "packageName": "Unique - One Week 1300NGN",
+              "amount": 1300,
+              "billerCode": "KUD-STAR-UNOW-014",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 608,
+              "packageName": "Smart - One Month 2600NGN",
+              "amount": 2600,
+              "billerCode": "KUD-STAR-SMOM-015",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 609,
+              "packageName": "Classic - One Month 2750NGN",
+              "amount": 2750,
+              "billerCode": "KUD-STAR-CLOM-016",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 610,
+              "packageName": "Unique - One Month 3800NGN",
+              "amount": 3800,
+              "billerCode": "KUD-STAR-UNOM-017",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 611,
+              "packageName": "Super - One Month 4900NGN",
+              "amount": 4900,
+              "billerCode": "KUD-STAR-SPOM-018",
+              "billerID": 64,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "billerName": "SHOWMAX",
+          "billerCode": "SHOWMAX",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://d38v990enafbk6.cloudfront.net/showmax.png",
+          "serviceTypeID": 3,
+          "tagID": 420,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": "Phone Number",
+          "categoryID": 3,
+          "billerPackages": [
+            {
+              "id": 662,
+              "packageName": "Showmax",
+              "amount": 2900,
+              "billerCode": "KUD-SHOW-FULL-001",
+              "billerID": 88,
+              "requireValidation": false,
+              "isActive": true
+            },
+            {
+              "id": 663,
+              "packageName": "Showmax Mobile",
+              "amount": 1200,
+              "billerCode": "KUD-SHOW-MOBO-001",
+              "billerID": 88,
+              "requireValidation": false,
+              "isActive": true
+            },
+            {
+              "id": 664,
+              "packageName": "Showmax Pro",
+              "amount": 6300,
+              "billerCode": "KUD-SHOW-SPOF-001",
+              "billerID": 88,
+              "requireValidation": false,
+              "isActive": true
+            },
+            {
+              "id": 665,
+              "packageName": "Showmax Pro Mobile",
+              "amount": 3200,
+              "billerCode": "KUD-SHOW-SPMO-001",
+              "billerID": 88,
+              "requireValidation": false,
+              "isActive": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Internet",
+      "billers": [
+        {
+          "id": 40,
+          "billerName": "Spectranet",
+          "billerCode": "991",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011886190911154623135836993617",
+          "serviceTypeID": 4,
+          "tagID": 103,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 650,
+              "packageName": "NGN500 Mobile Pin",
+              "amount": 500,
+              "billerCode": "KUD-DAT-SPEC-001",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 651,
+              "packageName": "NGN1000 Mobile Pin",
+              "amount": 1000,
+              "billerCode": "KUD-DAT-SPEC-002",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 652,
+              "packageName": "NGN2000 Mobile Pin",
+              "amount": 2000,
+              "billerCode": "KUD-DAT-SPEC-003",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 653,
+              "packageName": "NGN5000 Mobile Pin",
+              "amount": 5000,
+              "billerCode": "KUD-DAT-SPEC-004",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 654,
+              "packageName": "NGN7000 Mobile Pin",
+              "amount": 7000,
+              "billerCode": "KUD-DAT-SPEC-005",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 655,
+              "packageName": "NGN10000 Mobile Pin",
+              "amount": 10000,
+              "billerCode": "KUD-DAT-SPEC-006",
+              "billerID": 40,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "billerName": "Smile NG",
+          "billerCode": "857",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011423190911154611135714808847",
+          "serviceTypeID": 4,
+          "tagID": 102,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 612,
+              "packageName": "1GB FlexiDaily (1 day)",
+              "amount": 300,
+              "billerCode": "KUD-DAT-SMIL-001",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 613,
+              "packageName": "2.5GB FlexiDaily (2 Days)",
+              "amount": 500,
+              "billerCode": "KUD-DAT-SMIL-002",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 614,
+              "packageName": "1GB FlexiWeekly (7 Days)",
+              "amount": 500,
+              "billerCode": "KUD-DAT-SMIL-003",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 615,
+              "packageName": "SmileVoice ONLY 65 (30 Days)",
+              "amount": 510,
+              "billerCode": "KUD-DAT-SMIL-004",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 616,
+              "packageName": "1.5GB Bigga (30 Days)",
+              "amount": 1000,
+              "billerCode": "KUD-DAT-SMIL-005",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 617,
+              "packageName": "2GB FlexiWeekly (7 Days)",
+              "amount": 1000,
+              "billerCode": "KUD-DAT-SMIL-006",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 618,
+              "packageName": "SmileVoice ONLY 135 (30 Days)",
+              "amount": 1020,
+              "billerCode": "KUD-DAT-SMIL-007",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 619,
+              "packageName": "2GB MidNite (7 Days)",
+              "amount": 1020,
+              "billerCode": "KUD-DAT-SMIL-008",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 620,
+              "packageName": "2GB Bigga (30 Days)",
+              "amount": 1200,
+              "billerCode": "KUD-DAT-SMIL-009",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 621,
+              "packageName": "3GB Bigga (30 Days)",
+              "amount": 1500,
+              "billerCode": "KUD-DAT-SMIL-010",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 622,
+              "packageName": "6GB FlexiWeekly (7 Days)",
+              "amount": 1500,
+              "billerCode": "KUD-DAT-SMIL-011",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 623,
+              "packageName": "3GB MidNite (7 Days)",
+              "amount": 1530,
+              "billerCode": "KUD-DAT-SMIL-012",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 624,
+              "packageName": "3GB Weekend ONLY (3 Days)",
+              "amount": 1530,
+              "billerCode": "KUD-DAT-SMIL-013",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 625,
+              "packageName": "5GB Bigga (30 Days)",
+              "amount": 2000,
+              "billerCode": "KUD-DAT-SMIL-014",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 626,
+              "packageName": "6.5GB Bigga (30 Days)",
+              "amount": 2500,
+              "billerCode": "KUD-DAT-SMIL-015",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 627,
+              "packageName": "8GB Bigga (30 Days)",
+              "amount": 3000,
+              "billerCode": "KUD-DAT-SMIL-016",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 628,
+              "packageName": "SmileVoice ONLY 430 (30 Days)",
+              "amount": 3070,
+              "billerCode": "KUD-DAT-SMIL-017",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 629,
+              "packageName": "10GB Bigga (30 Days)",
+              "amount": 3500,
+              "billerCode": "KUD-DAT-SMIL-018",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 630,
+              "packageName": "12GB Bigga (30 Days)",
+              "amount": 4000,
+              "billerCode": "KUD-DAT-SMIL-019",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 631,
+              "packageName": "15GB Bigga (30 Days)",
+              "amount": 5000,
+              "billerCode": "KUD-DAT-SMIL-020",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 632,
+              "packageName": "20GB Bigga (30 Days)",
+              "amount": 6000,
+              "billerCode": "KUD-DAT-SMIL-021",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 633,
+              "packageName": "30GB Bigga (30 Days)",
+              "amount": 8000,
+              "billerCode": "KUD-DAT-SMIL-022",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 634,
+              "packageName": "40GB Bigga (30 Days)",
+              "amount": 10000,
+              "billerCode": "KUD-DAT-SMIL-023",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 635,
+              "packageName": "UnlimitedLite (30 Days)",
+              "amount": 10000,
+              "billerCode": "KUD-DAT-SMIL-024",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 636,
+              "packageName": "60GB Bigga (30 Days)",
+              "amount": 13500,
+              "billerCode": "KUD-DAT-SMIL-025",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 637,
+              "packageName": "75GB Bigga (30 Days)",
+              "amount": 15000,
+              "billerCode": "KUD-DAT-SMIL-026",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 638,
+              "packageName": "UnlimitedEssential (30 Days)",
+              "amount": 15000,
+              "billerCode": "KUD-DAT-SMIL-027",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 639,
+              "packageName": "100GB Bigga (30 Days)",
+              "amount": 18000,
+              "billerCode": "KUD-DAT-SMIL-028",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 640,
+              "packageName": "90GB Jumbo 20000NGN (60 days)",
+              "amount": 20000,
+              "billerCode": "KUD-DAT-SMIL-029",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 641,
+              "packageName": "Freedom 3Mbps (30 Days)",
+              "amount": 20000,
+              "billerCode": "KUD-DAT-SMIL-030",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 642,
+              "packageName": "Freedom 6Mbps (30 Days)",
+              "amount": 24000,
+              "billerCode": "KUD-DAT-SMIL-031",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 643,
+              "packageName": "160GB Jumbo 34000NGN (90 days)",
+              "amount": 34000,
+              "billerCode": "KUD-DAT-SMIL-032",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 644,
+              "packageName": "BestEffort Freedom (365 Days)",
+              "amount": 36000,
+              "billerCode": "KUD-DAT-SMIL-033",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 645,
+              "packageName": "200GB Jumbo (120 Days)",
+              "amount": 40000,
+              "billerCode": "KUD-DAT-SMIL-034",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 646,
+              "packageName": "125GB 50000NGN (365 days)",
+              "amount": 50000,
+              "billerCode": "KUD-DAT-SMIL-035",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 647,
+              "packageName": "200GB Anytime (365 Days)",
+              "amount": 70000,
+              "billerCode": "KUD-DAT-SMIL-036",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 648,
+              "packageName": "500GB 100000NGN (365 days)",
+              "amount": 100000,
+              "billerCode": "KUD-DAT-SMIL-037",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 649,
+              "packageName": "1TB Anytime (365 Days)",
+              "amount": 120000,
+              "billerCode": "KUD-DAT-SMIL-038",
+              "billerID": 52,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "billerName": "MTN Data",
+          "billerCode": "348",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011680190911154443134838312559",
+          "serviceTypeID": 4,
+          "tagID": 69,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 483,
+              "packageName": "20MB for 1 Day",
+              "amount": 25,
+              "billerCode": "34814319",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 484,
+              "packageName": "50MB for 7 Days",
+              "amount": 50,
+              "billerCode": "34814340",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 485,
+              "packageName": "100MB for 1 Day",
+              "amount": 100,
+              "billerCode": "34814342",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 486,
+              "packageName": "160MB for 30 Days",
+              "amount": 150,
+              "billerCode": "34814302",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 487,
+              "packageName": "200MB for 2 Days",
+              "amount": 200,
+              "billerCode": "34814344",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 488,
+              "packageName": "350MB for 7 Days",
+              "amount": 300,
+              "billerCode": "34814346",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 489,
+              "packageName": "1GB for 1 Day",
+              "amount": 300,
+              "billerCode": "34814343",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 490,
+              "packageName": "1GB for 7 Days",
+              "amount": 500,
+              "billerCode": "34814323",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 491,
+              "packageName": "2.5GB for 2 Days",
+              "amount": 500,
+              "billerCode": "34814345",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 492,
+              "packageName": "750MB for 2 Weeks",
+              "amount": 500,
+              "billerCode": "34814347",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 493,
+              "packageName": "1.5GB for 1 Month",
+              "amount": 1000,
+              "billerCode": "34814348",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 494,
+              "packageName": "2GB for 1 Month",
+              "amount": 1200,
+              "billerCode": "34814349",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 495,
+              "packageName": "3GB for 1 Month",
+              "amount": 1500,
+              "billerCode": "34814309",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 496,
+              "packageName": "6GB for 7 Days",
+              "amount": 1500,
+              "billerCode": "34814338",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 497,
+              "packageName": "4.5GB for 1 Month",
+              "amount": 2000,
+              "billerCode": "34814325",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 498,
+              "packageName": "6GB for 1 Month",
+              "amount": 2500,
+              "billerCode": "34814311",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 499,
+              "packageName": "10GB for 1 Month",
+              "amount": 3000,
+              "billerCode": "34814312",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 500,
+              "packageName": "12GB for 1 Month",
+              "amount": 3500,
+              "billerCode": "34814351",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 501,
+              "packageName": "20GB for 1 Month",
+              "amount": 5000,
+              "billerCode": "34814352",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 502,
+              "packageName": "25GB for 1 Month",
+              "amount": 6000,
+              "billerCode": "34814339",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 503,
+              "packageName": "40GB for 1 Month",
+              "amount": 10000,
+              "billerCode": "34814353",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 504,
+              "packageName": "30GB for 1 Month (SME Data Plan)",
+              "amount": 13500,
+              "billerCode": "34814326",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 505,
+              "packageName": "75GB for 1 Month",
+              "amount": 15000,
+              "billerCode": "34814354",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 506,
+              "packageName": "110GB for 1 Month",
+              "amount": 20000,
+              "billerCode": "34814332",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 507,
+              "packageName": "75GB for 2 Months",
+              "amount": 20000,
+              "billerCode": "34814355",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 508,
+              "packageName": "120GB for 2 Months",
+              "amount": 30000,
+              "billerCode": "34814356",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 509,
+              "packageName": "90GB for 2 Months (SME Data Plan)",
+              "amount": 40000,
+              "billerCode": "34814327",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 510,
+              "packageName": "150GB for 3 Months",
+              "amount": 50000,
+              "billerCode": "34814357",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 511,
+              "packageName": "150GB for 3 Month (SME Special Offer)",
+              "amount": 50000,
+              "billerCode": "34814318",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 512,
+              "packageName": "250GB for 3 Months",
+              "amount": 75000,
+              "billerCode": "34814358",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 513,
+              "packageName": "400GB for 1 Year",
+              "amount": 120000,
+              "billerCode": "34814337",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 514,
+              "packageName": "1000GB for 1 Year",
+              "amount": 300000,
+              "billerCode": "34814316",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 515,
+              "packageName": "2000GB for 1 Year",
+              "amount": 450000,
+              "billerCode": "34814315",
+              "billerID": 54,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "billerName": "9mobile  Data",
+          "billerCode": "908",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011437190911154534135342562670",
+          "serviceTypeID": 4,
+          "tagID": 71,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 519,
+              "packageName": "9MOBILE 25MB (24 HOURS)",
+              "amount": 50,
+              "billerCode": "KUD-DAT-9MOB-001",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 520,
+              "packageName": "9MOBILE 100MB (24 HOURS)",
+              "amount": 100,
+              "billerCode": "KUD-DAT-9MOB-002",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 521,
+              "packageName": "9MOBILE 650MB (24 HOURS)",
+              "amount": 200,
+              "billerCode": "KUD-DAT-9MOB-003",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 530,
+              "packageName": "9MOBILE 500MB (30 DAYS)",
+              "amount": 500,
+              "billerCode": "KUD-DAT-9MOB-004",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 531,
+              "packageName": "9MOBILE 1.5GB (30 DAYS)",
+              "amount": 1000,
+              "billerCode": "KUD-DAT-9MOB-005",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 532,
+              "packageName": "9MOBILE 2GB (30 DAYS)",
+              "amount": 1200,
+              "billerCode": "KUD-DAT-9MOB-009",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 533,
+              "packageName": "9MOBILE 7GB (7 DAYS)",
+              "amount": 1500,
+              "billerCode": "KUD-DAT-9MOB-010",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 534,
+              "packageName": "9MOBILE 4.5GB (30 DAYS)",
+              "amount": 2000,
+              "billerCode": "KUD-DAT-9MOB-011",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 535,
+              "packageName": "9MOBILE 11GB (30DAYS)",
+              "amount": 4000,
+              "billerCode": "KUD-DAT-9MOB-012",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 536,
+              "packageName": "9MOBILE 15GB (30 DAYS)",
+              "amount": 5000,
+              "billerCode": "KUD-DAT-9MOB-013",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 537,
+              "packageName": "9MOBILE 40GB (30 DAYS)",
+              "amount": 10000,
+              "billerCode": "KUD-DAT-9MOB-014",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 538,
+              "packageName": "9MOBILE 75GB (30 DAYS)",
+              "amount": 15000,
+              "billerCode": "KUD-DAT-9MOB-015",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 539,
+              "packageName": "9MOBILE 75GB (90 DAYS)",
+              "amount": 25000,
+              "billerCode": "KUD-DAT-9MOB-016",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 540,
+              "packageName": "9MOBILE 165GB (180 DAYS)",
+              "amount": 50000,
+              "billerCode": "KUD-DAT-9MOB-017",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 541,
+              "packageName": "9MOBILE 100GB ( 100 DAYS)",
+              "amount": 84992,
+              "billerCode": "KUD-DAT-9MOB-018",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 542,
+              "packageName": "9MOBILE 365GB (365 DAYS)",
+              "amount": 100000,
+              "billerCode": "KUD-DAT-9MOB-019",
+              "billerID": 57,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "billerName": "Airtel Data",
+          "billerCode": "923",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011980190911154556135564887602",
+          "serviceTypeID": 4,
+          "tagID": 72,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 308,
+              "packageName": "6GB for N1500 (7 DAYS)",
+              "amount": 1500,
+              "billerCode": "92324",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 309,
+              "packageName": "1GB for N300 (1 DAY)",
+              "amount": 300,
+              "billerCode": "92325",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 315,
+              "packageName": "350MB for N300 (7 DAYS)",
+              "amount": 300,
+              "billerCode": "92328",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 316,
+              "packageName": "750 MB for N500 (14 DAYS)",
+              "amount": 500,
+              "billerCode": "92307",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 317,
+              "packageName": "1.5GB for N1000 (30 DAYS)",
+              "amount": 1000,
+              "billerCode": "92303",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 318,
+              "packageName": "3GB for N1500 (30 DAYS)",
+              "amount": 1500,
+              "billerCode": "92329",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 319,
+              "packageName": "Data plan gives  4.5GB for N2000 valid for 30 days",
+              "amount": 2000,
+              "billerCode": "92310",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 320,
+              "packageName": "11GB for N4000 (30 DAYS)",
+              "amount": 4000,
+              "billerCode": "92320",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 321,
+              "packageName": "6GB for N2500 (30 DAYS)",
+              "amount": 2500,
+              "billerCode": "92322",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 323,
+              "packageName": "2GB for N500 (1 DAY)",
+              "amount": 500,
+              "billerCode": "92317",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 324,
+              "packageName": "2GB for N1200 (30 DAYS)",
+              "amount": 1200,
+              "billerCode": "92309",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 325,
+              "packageName": "40GB for N10000 (30 DAYS)",
+              "amount": 10000,
+              "billerCode": "92326",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 326,
+              "packageName": "75GB for N15000 (30 DAYS)",
+              "amount": 15000,
+              "billerCode": "92313",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 516,
+              "packageName": "40MB for N50 (1 DAY)",
+              "amount": 50,
+              "billerCode": "KUD-DAT-AIRT-005",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 517,
+              "packageName": "DAILY PLAN -N100 (100MB VALID FOR 1 DAY)",
+              "amount": 100,
+              "billerCode": "KUD-DAT-AIRT-006",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 518,
+              "packageName": "200MB for N200 (3 DAYS)",
+              "amount": 200,
+              "billerCode": "KUD-DAT-AIRT-007",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 526,
+              "packageName": "10GB for N3000 (30 DAYS)",
+              "amount": 3000,
+              "billerCode": "KUD-DAT-AIRT-003",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 527,
+              "packageName": "20GB for N5000 (30 DAYS)",
+              "amount": 5000,
+              "billerCode": "KUD-DAT-AIRT-015",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 528,
+              "packageName": "120GB for N20000 (30 DAYS)",
+              "amount": 20000,
+              "billerCode": "KUD-DAT-AIRT-020",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 529,
+              "packageName": "240GB for N30000 (30 DAYS)",
+              "amount": 30000,
+              "billerCode": "KUD-DAT-AIRT-004",
+              "billerID": 58,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "billerName": "Glo Data",
+          "billerCode": "3070",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/tags/011848190911154419134595848827",
+          "serviceTypeID": 4,
+          "tagID": 70,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 9,
+          "billerPackages": [
+            {
+              "id": 351,
+              "packageName": "1GB Night Only",
+              "amount": 100,
+              "billerCode": "04307019",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 522,
+              "packageName": "150MB FOR 1 DAY",
+              "amount": 100,
+              "billerCode": "KUD-DAT-GLOD-001",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 523,
+              "packageName": "350MB FOR 2 DAYS",
+              "amount": 200,
+              "billerCode": "KUD-DAT-GLOD-002",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 524,
+              "packageName": "500MB NIGHT ONLY",
+              "amount": 50,
+              "billerCode": "KUD-DAT-GLOD-016",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 525,
+              "packageName": "1.25GB (SUNDAY 1 DAY)",
+              "amount": 200,
+              "billerCode": "KUD-DAT-GLOD-017",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 543,
+              "packageName": "1.35GB FOR 14 DAYS",
+              "amount": 500,
+              "billerCode": "KUD-DAT-GLOD-003",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 544,
+              "packageName": "2.9GB FOR 30DAYS",
+              "amount": 1000,
+              "billerCode": "KUD-DAT-GLOD-004",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 545,
+              "packageName": "5.8GB FOR 30 DAYS",
+              "amount": 2000,
+              "billerCode": "KUD-DAT-GLOD-005",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 546,
+              "packageName": "7.7GB FOR 30DAYS",
+              "amount": 2500,
+              "billerCode": "KUD-DAT-GLOD-006",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 547,
+              "packageName": "10GB FOR 30 DAYS",
+              "amount": 3000,
+              "billerCode": "KUD-DAT-GLOD-007",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 548,
+              "packageName": "13.25GB FOR 30 DAYS",
+              "amount": 4000,
+              "billerCode": "KUD-DAT-GLOD-008",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 549,
+              "packageName": "18.25GB FOR 30 DAYS",
+              "amount": 5000,
+              "billerCode": "KUD-DAT-GLOD-009",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 550,
+              "packageName": "29.5GB FOR 30DAYS",
+              "amount": 8000,
+              "billerCode": "KUD-DAT-GLOD-010",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 551,
+              "packageName": "50GB FOR 30DAYS",
+              "amount": 10000,
+              "billerCode": "KUD-DAT-GLOD-011",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 552,
+              "packageName": "93GB FOR 30DAYS",
+              "amount": 15000,
+              "billerCode": "KUD-DAT-GLOD-012",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 553,
+              "packageName": "119GB FOR 30DAYS",
+              "amount": 18000,
+              "billerCode": "KUD-DAT-GLOD-013",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 554,
+              "packageName": "50MB FOR 1DAY",
+              "amount": 50,
+              "billerCode": "KUD-DAT-GLOD-014",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 555,
+              "packageName": "138GB FOR 30DAYS",
+              "amount": 20000,
+              "billerCode": "KUD-DAT-GLOD-015",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 556,
+              "packageName": "7GB FOR 7DAYS",
+              "amount": 1500,
+              "billerCode": "KUD-DAT-GLOD-019",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            },
+            {
+              "id": 557,
+              "packageName": "4.1GB FOR 30DAYS",
+              "amount": 1500,
+              "billerCode": "KUD-DAT-GLOD-020",
+              "billerID": 60,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Church",
+      "billers": []
+    },
+    {
+      "id": 6,
+      "name": "Betting, Lottery and Gaming",
+      "billers": [
+        {
+          "id": 48,
+          "billerName": "SportyBet",
+          "billerCode": "3472",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/sportybet.png",
+          "serviceTypeID": 6,
+          "tagID": 173,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 232,
+              "packageName": "Fund Wallet",
+              "amount": 0,
+              "billerCode": "04347201",
+              "billerID": 48,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "billerName": "NairaBet",
+          "billerCode": "2768",
+          "operation": "Betting",
+          "status": "active",
+          "verification": "active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/nairabet.png",
+          "serviceTypeID": 6,
+          "tagID": 164,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 120,
+              "packageName": "Nairabet Online Player",
+              "amount": 0,
+              "billerCode": "04276809",
+              "billerID": 38,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "billerName": "1XBET",
+          "billerCode": "2968",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/1Xbet.png",
+          "serviceTypeID": 6,
+          "tagID": 169,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 212,
+              "packageName": "Wallet Funding",
+              "amount": 0,
+              "billerCode": "04296801",
+              "billerID": 41,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "billerName": "Bet 9ja",
+          "billerCode": "2269",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/bet9ja.png",
+          "serviceTypeID": 6,
+          "tagID": 171,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 215,
+              "packageName": "Fund Bet 9ja",
+              "amount": 0,
+              "billerCode": "04226901",
+              "billerID": 43,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "billerName": "BetKing",
+          "billerCode": "3148",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/betkinng.png",
+          "serviceTypeID": 6,
+          "tagID": 186,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 216,
+              "packageName": "Deposit",
+              "amount": 0,
+              "billerCode": "04314801",
+              "billerID": 44,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "billerName": "BETWAY",
+          "billerCode": "3233",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/betway.png",
+          "serviceTypeID": 6,
+          "tagID": 187,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 217,
+              "packageName": "Betway",
+              "amount": 0,
+              "billerCode": "04323301",
+              "billerID": 45,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "billerName": "Merrybet Gold Limited",
+          "billerCode": "508",
+          "operation": "Paybill",
+          "status": "Active",
+          "verification": "Active",
+          "billerIcon": "https://databasesforkuda.blob.core.windows.net/bettingbillers/merrybet.png",
+          "serviceTypeID": 6,
+          "tagID": 172,
+          "aggregatorID": 1,
+          "isDisabled": false,
+          "surcharge": 0,
+          "hint": null,
+          "categoryID": 26,
+          "billerPackages": [
+            {
+              "id": 218,
+              "packageName": "Topup Account-500",
+              "amount": 500,
+              "billerCode": "50801",
+              "billerID": 46,
+              "requireValidation": true,
+              "isActive": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
